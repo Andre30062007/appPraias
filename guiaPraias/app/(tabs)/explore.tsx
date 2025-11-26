@@ -22,7 +22,7 @@ link: '/bertioga', // Para usar na navegação depois
 id: 2,
 nome: 'Maragogi',
 local: 'Nordeste',
-imagem: require('../../assets/images/maragogi.jpeg'),
+imagem: require('../../assets/images/maragogi.jpg'),
 link: '/maragogi',
 },
 {
@@ -36,7 +36,7 @@ link: '/arraial',
 id: 4,
 nome: 'San Blas',
 local: 'Internacional',
-imagem: require('../../assets/images/sanblas.jpeg'),
+imagem: require('../../assets/images/sanblas.jpg'),
 link: '/sanblas',
 },
 ];
